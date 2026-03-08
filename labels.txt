@@ -1,0 +1,9 @@
+accept_call
+identify objects
+identify_objects
+make_call
+navigate
+reading
+send_whatsapp
+set_an_alarm
+unknown
